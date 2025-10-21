@@ -22,3 +22,5 @@ dependencyResolutionManagement {
 rootProject.name = "WSU_202511030"
 include(":app")
 include(":w03")
+include(":w04")
+include(":w05")
